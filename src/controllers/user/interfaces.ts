@@ -1,4 +1,3 @@
-import { type } from 'os';
 import { Decorate } from '../../common/types';
 
 interface RegistrationI {
